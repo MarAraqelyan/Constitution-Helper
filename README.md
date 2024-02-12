@@ -62,3 +62,4 @@ python constitution_helper.py find  "ownership"
 
 Similar sentence:
   Guaranteeing Ownership
+
